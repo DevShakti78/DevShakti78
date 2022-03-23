@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- ✍️ You can visit my portfolio at https://shakti-dev.vercel.app/
+
 - 🔭 I’m currently working on [Responsive React Movie app](F)
 
 - 🌱 I’m currently learning **Html, Css, JavaScript, Nodejs, Express, Mongodb, React-Redux**
